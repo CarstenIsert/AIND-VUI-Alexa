@@ -1,4 +1,31 @@
 GetNewFactIntent a fact
 GetNewFactIntent tell me a fact
 GetNewFactIntent give me a fact
+GetNewFactIntent share a fact
+GetNewFactIntent can you please share a fact
 GetNewFactIntent give me something
+GetNewFactIntent tell me something
+GetNewFactIntent tell me a history fact
+GetNewFactIntent give me a history fact
+GetNewFactIntent tell me about history
+GetNewFactIntent can you please tell me a fact
+GetNewFactIntent can you please give me a fact
+GetNewFactIntent can you please tell me something about history
+GetNewFactIntent tell me something about history
+GetNewFactIntent give me some information
+
+GetNewYearFactIntent a fact for the year {FACT_YEAR}
+GetNewYearFactIntent tell me a fact for the year {FACT_YEAR}
+GetNewYearFactIntent give me a fact for the year {FACT_YEAR}
+GetNewYearFactIntent share a fact for the year {FACT_YEAR}
+GetNewYearFactIntent what happened in the year {FACT_YEAR}
+GetNewYearFactIntent tell me something about {FACT_YEAR}
+GetNewYearFactIntent give me something about {FACT_YEAR}
+GetNewYearFactIntent share something about {FACT_YEAR}
+GetNewYearFactIntent tell me something about the year {FACT_YEAR}
+GetNewYearFactIntent give me some information about {FACT_YEAR}
+GetNewYearFactIntent give me some information about the year {FACT_YEAR}
+GetNewYearFactIntent please tell me a fact for the year {FACT_YEAR}
+GetNewYearFactIntent please give me a fact for the year {FACT_YEAR}
+GetNewYearFactIntent please share a fact for the year {FACT_YEAR}
+GetNewYearFactIntent tell me what happened in the year {FACT_YEAR}

@@ -56,7 +56,7 @@ var handlers = {
     'LaunchRequest': function () {
         this.emit('GetFact');
     },
-    'GetNewFactIntent': function () {
+    'SchoolHistoryFactIntent': function () {
         this.emit('GetFact');
     },
     'GetFact': function () {
